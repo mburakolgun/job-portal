@@ -1,0 +1,14 @@
+Open the browser and go to http://localhost/jobportal/
+Accessing admin accounts
+
+Username: admin
+Password: admin
+
+Accessing Employer Accounts:
+
+Username: janobe
+Password: janobe
+Or Register
+
+Accessing Job Seekers Accounts:
+Please Register
